@@ -9,10 +9,12 @@
 #memory-cards-container {
   width: 1200px;
   height: 1200px;
-  border: black 1px solid;
+  border: black 10px solid;
   display: flex;
 }
 
 .memory-card {
   background-color: blue;
+  height: 50px;
+  width: 50px;
 }
