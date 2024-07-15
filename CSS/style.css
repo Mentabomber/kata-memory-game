@@ -1,0 +1,18 @@
+/* regole generali di pagina */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#memory-cards-container {
+  width: 1200px;
+  height: 1200px;
+  border: black 1px solid;
+  display: flex;
+}
+
+.memory-card {
+  background-color: blue;
+}
